@@ -2,6 +2,6 @@
 ## Hourly Visualization
 ![](Hourly_vis.gif)
 
-## Location CLuster/Pop up Marker
+## Location Cluster/Pop up Marker
 ![](POP_Over.JPG)
 
